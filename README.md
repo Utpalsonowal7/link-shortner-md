@@ -4,7 +4,7 @@ A full-stack URL shortening platform that allows users to create, manage, and an
 
 ## 🚀 Live Demo
 
-**Website:** https://utpx.in
+**Website:** https://app.utpx.in
 
 ---
 
