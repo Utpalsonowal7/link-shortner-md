@@ -168,7 +168,7 @@ New features and improvements are continuously being added.
 Full-Stack Developer | JavaScript | TypeScript | Next.js | Node.js
 
 * GitHub: [@Utpalsonowal7](https://github.com/Utpalsonowal7)
-* LinkedIn: YOUR_LINKEDIN_URL
+* LinkedIn: https://www.linkedin.com/in/utpal-sonowal/
 
 ---
 
